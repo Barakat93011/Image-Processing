@@ -1,2 +1,6 @@
 # Image-Processing
-Count number of people within the scope of camera and calculate distances between them and warn them if they are many to keep Healthy spacing
+Count number of people within the scope of camera then warn them if they are many to keep Healthy spacing
+
+Project is prepared using Matlab Script
+
+Matlab Camera Support should be installed 
